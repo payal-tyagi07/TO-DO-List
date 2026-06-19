@@ -2,10 +2,10 @@
   "name": "to-do-list",
   "version": "1.0.0",
   "description": "",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "dev": "nodeman src/index.js"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [],
   "author": "",
